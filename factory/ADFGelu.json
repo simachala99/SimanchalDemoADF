@@ -1,0 +1,9 @@
+{
+	"name": "ADFGelu",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "691c0488-858f-4d6f-b10f-9ce6bfa4cff9",
+		"tenantId": "cfe3b127-445b-4cb3-8444-36d8159d4501"
+	}
+}
